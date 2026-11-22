@@ -12,6 +12,7 @@ fs.mkdirSync(out, { recursive: true });
 
 const SITES = {
   vero: "https://vero-ten.vercel.app/",
+  struct: "https://struct-gamma.vercel.app/",
   northwind: "https://northwind-zeta.vercel.app/",
   hush: "https://hush-sepia.vercel.app/",
   vsync: "https://v-sync-minimallabs.vercel.app/",
